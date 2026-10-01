@@ -1,0 +1,6 @@
+{
+  "name": "AI Encyclopedia",
+  "description": "Interactive AI Encyclopedia with multi-level explanations (Analogy, Layman, Technical Deep-Dive) and dynamic Gemini 2.5 Flash query generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
